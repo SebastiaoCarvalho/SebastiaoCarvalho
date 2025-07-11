@@ -4,6 +4,7 @@
 
 I am Sebastião Carvalho, I am currently taking my Master's Degree in Computer Science and Engineering Student at Instituto Superior Técnico, Lisbon. 
 I am specializing in Videogames and Artificial Intelligence, and aim to land a job in the game industry as an AI programmer for games.
+Currently I am interning in Tokyo, at the National Institute of Informatics, doing research on the use of Large Language Models for Formal Methods.
 
 🎮 I enjoy doing game jams, especially if the theme is out of the ordinary. I have already participated in some that you can see [here](https://github.com/SebastiaoCarvalho/Game-Jams).
 If you have any recommendations or need a programmer for your team feel free to reach out!
