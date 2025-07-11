@@ -11,7 +11,6 @@ If you have any recommendations or need a programmer for your team feel free to 
 🤖 I am also fascinated by AI, and I am always reading more about it's appliances in the field of videogames and autonomous agents.
 
 🎥 Outside of tech, I like horror movies and comic book adaptions. I also enjoy videogames, especially single player and story focused.
-Also learning Japanese, so that I can travel there and maybe even get a job there 👀.
 
 ## How to reach me
 
